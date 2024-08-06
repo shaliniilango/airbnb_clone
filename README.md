@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# airbnb_clone
+This project is a  web application that replicates the core functionalities of Airbnb, allowing users to search, browse, and book accommodations. Built with React.js for the frontend and Node.js with Express for the backend, it features user authentication, search filters, dynamic listing displays, and secure payment integration.
+>>>>>>> 7a50bd07e40e2bd3ab45bedf63d065c5ab43d927
