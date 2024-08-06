@@ -1,0 +1,35 @@
+.banner {
+    background-image: url('C:\Users\Shankar\airbnb-clone\src\assets\bg.jpg'); 
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+  }
+  
+  .banner__search {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: absolute;
+    top: 20px;
+    width: 100%;
+  }
+  
+  .banner__info {
+    padding: 25px;
+    color: white;
+    text-align: left;
+    position: absolute;
+    top: 40%;
+    left: 50px;
+  }
+  
+  .banner__searchButton {
+    background-color: #ff7779;
+    color: white;
+    text-transform: inherit !important;
+    font-size: 15px;
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+  

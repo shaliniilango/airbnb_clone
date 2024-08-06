@@ -1,0 +1,11 @@
+.home {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .home__section {
+    display: flex;
+    padding: 30px;
+    justify-content: space-between;
+  }
+  
